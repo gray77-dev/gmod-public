@@ -2,7 +2,7 @@
 local PLUGIN = PLUGIN
 
 PLUGIN.name = "Holo Comm"
-PLUGIN.author = "Gray"
+PLUGIN.author = "Gray, Helix community"
 PLUGIN.description = "Adds in a new /HoloComm command transmitting to a fixed distance, appearing in yellow."
 PLUGIN.license = [[
 Copyright 2019-2020 DevAppeared
