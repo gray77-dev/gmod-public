@@ -32,7 +32,7 @@ ix.chat.Register("holocomm", {
 	indicator = "chatPerforming"
 })
 
-ix.chat.Register("flux", {
+ix.chat.Register("holocomm", {
     format = "%s [Holo-Comm] \"%s\"",
     color = Color(50,255,50),
     OnChatAdd = function(self, speaker, text, bAnonymous, data)
